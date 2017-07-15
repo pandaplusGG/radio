@@ -1,43 +1,42 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <menu>
-    <item>
-        <name>Cat radio</name>
-        <location>Thailand</location>
-        <url>http://catradio.mylive.in.th:8000/live</url>
-    </item>
-    <item>
-        <name>SMM Sport Radio</name>
-        <location>Budapest</location>
-        <url>http://110.164.48.215:8000/smmradio</url>
-    </item>
-    <item>
-        <name>Eldoradio</name>
-        <location>Luxemburg</location>
-        <url>http://real3.atimemedia.com:1935/live/efm.sdp/playlist.m3u</url>
-    </item> 
-    <item>
-        <name>1POWER</name>
-        <location>New York</location>
-        <url>http://powerhitz.powerhitz.com:5040</url>
-    </item>
-    <item>
-        <name>FM 99</name>
-        <location>Grecee</location>
-        <url>http://rstream.mcot.net:8000/fm99</url>
-    </item>
-    <item>
-        <name>Hit FM</name>
-        <location>Hasselt</location>
-        <url>http://94.23.48.124:8000/</url>
-    </item>
-	    <item>
-        <name>Venus FM</name>
-        <location>Grecee</location>
-        <url>http://eco.onestreaming.com:8171/</url>
-    </item>
-	    <item>
-        <name>1Dance.FM</name>    
-        <location>USA</location>
-        <url>http://173.192.207.51:8062/</url>
-    </item>
+<item>
+<name>Antenne</name>
+<location>Bayern</location>
+<url>http://mp3channels.webradio.antenne.de:80/antenne</url>
+</item>
+<item>
+<name>Radio1</name>
+<location>Budapest</location>
+<url>http://stream3.radio1.hu:8000/mid.mp3</url>
+</item>
+<item>
+<name>Eldoradio</name>
+<location>Luxemburg</location>
+<url>http://81.92.238.33:80/</url>
+</item>
+<item>
+<name>1POWER</name>
+<location>New York</location>
+<url>http://powerhitz.powerhitz.com:5040</url>
+</item>
+<item>
+<name>Music Galaxy</name>
+<location>Grecee</location>
+<url>http://213.239.206.179:9080/stream</url>
+</item>
+<item>
+<name>Hit FM</name>
+<location>Hasselt</location>
+<url>http://94.23.48.124:8000/</url>
+</item>
+<item>
+<name>Venus FM</name>
+<location>Grecee</location>
+<url>http://eco.onestreaming.com:8171/</url>
+</item>
+<item>
+<name>1Dance.FM</name>
+<location>USA</location>
+<url>http://173.192.207.51:8062/</url>
+</item>
 </menu>
